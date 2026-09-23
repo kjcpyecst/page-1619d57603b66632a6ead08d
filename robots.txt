@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bfxjob.cn/sitemap.xml
